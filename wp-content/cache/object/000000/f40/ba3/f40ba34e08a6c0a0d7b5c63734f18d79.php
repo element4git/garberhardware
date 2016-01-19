@@ -1,0 +1,7 @@
+≥¡ùV<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"69";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-19 02:57:27";s:13:"post_date_gmt";s:19:"2016-01-19 02:57:27";s:12:"post_content";s:636:""Garber Hardware was founded by the semi-legendary <b>Joseph Garber</b>, an immigrant from Russia. Joseph Garber is possibly the Samuel Garber who appears in the 1900 U. S. Census living at at 305 W. 13th St. The census says that Samuel Garber was born Feb, 1860, in Russia, and that he immigrated to the U. S. in 1890. Garber's occupation was recorded as "painter.""
+
+Read more <a href="http://www.waltergrutchfield.net/garber.htm" target="_blank">here</a>
+
+<hr />
+
+<img class="alignnone size-medium wp-image-70" src="http://garber.dev/wp-content/uploads/2016/01/garber-1-300x200.jpg" alt="garber (1)" width="300" height="200" />";s:10:"post_title";s:44:"Walter Grutchfield is talking about Garber's";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:43:"walter-grutchfield-is-talking-about-garbers";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-01-19 02:57:27";s:17:"post_modified_gmt";s:19:"2016-01-19 02:57:27";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:23:"http://garber.dev/?p=69";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

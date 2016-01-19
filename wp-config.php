@@ -37,6 +37,13 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+
+
+/** Enable W3 Total Cache */
+
+
+
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -46,14 +53,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'gaber hardware is 488 bee');
+define('SECURE_AUTH_KEY',  'gaber hardware is 488 bee');
+define('LOGGED_IN_KEY',    'gaber hardware is 488 bee');
+define('NONCE_KEY',        'gaber hardware is 488 bee');
+define('AUTH_SALT',        'gaber hardware is 488 bee');
+define('SECURE_AUTH_SALT', 'gaber hardware is 488 bee');
+define('LOGGED_IN_SALT',   'gaber hardware is 488 bee');
+define('NONCE_SALT',       'gaber hardware is 488 bee');
 
 /**#@-*/
 
@@ -78,6 +85,8 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+
+define('WP_CACHE', true); // Added by W3 Total Cache
 
 /* That's all, stop editing! Happy blogging. */
 

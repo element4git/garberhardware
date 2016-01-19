@@ -180,6 +180,10 @@
 
 <?php wp_footer(); ?>
 
+<script async defer
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-xaqORfb5SyR1xbM10L_Tjekyh9Z3pk8&callback=garber.googleMaps.initMap">
+</script>
+
 </body>
 
 </html>

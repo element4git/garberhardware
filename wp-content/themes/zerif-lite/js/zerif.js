@@ -1,3 +1,50 @@
+var garber = garber || {}
+
+garber.googleMaps = function(){
+    var styleArray = [{
+        featureType: "all",
+        stylers: [{
+            saturation: -80
+        }]
+    }, {
+        featureType: "road.arterial",
+        elementType: "geometry",
+        stylers: [{
+            hue: "#00ffee"
+        }, {
+            saturation: 50
+        }]
+    }, {
+        featureType: "poi.business",
+        elementType: "labels",
+        stylers: [{
+            visibility: "off"
+        }]
+    }];
+    var myLatLng = {
+        lat: 40.734029,
+        lng: -74.007357
+    };
+    return {
+        initMap : function(){
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: myLatLng,
+                scrollwheel: false,
+                // Apply the map style array to the map.
+                styles: styleArray,
+                mapTypeId: google.maps.MapTypeId.HYBRID,
+                zoom: 18
+            });
+
+            var marker = new google.maps.Marker({
+                position: myLatLng,
+                map: map,
+                title: 'Garber Hardware'
+            });
+        }
+    }
+}();
+
 /* =================================
 
  LOADER
@@ -298,7 +345,7 @@ jQuery(function() {
 
         'bgColor':' #222222 ',
 
-        'fgColor':' #e96656 '
+        'fgColor':' #FE5F03 '
 
     });
 

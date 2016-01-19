@@ -16,6 +16,8 @@ if ( ! function_exists( 'add_action' ) ) {
 	die( 'Nothing to do...' );
 }
 
+echo wp_cache_get( '$key', '$group' );
+
 /* Important constants */
 define( 'PIRATE_FORMS_VERSION', '1.0.0' );
 define( 'PIRATE_FORMS_URL', plugin_dir_url( __FILE__ ) );
