@@ -5,3 +5,4 @@
 !/wp-content
 !/wp-content/*.*
 !/wp-content/**/
+wp-content/cache/*
