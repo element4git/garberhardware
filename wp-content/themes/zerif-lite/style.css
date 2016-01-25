@@ -6334,3 +6334,8 @@ body.custom-background {
 	height:20em;
 	width:100%;
 }
+
+.week{
+	font-size:34px;
+	line-height: 2.2em;
+}
