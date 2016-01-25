@@ -195,7 +195,7 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 
 	/* OUR hours */
 	?>
-	<section id="hours" class="focus">
+	<section id="hours" class="focus white-text">
 		<?php echo do_shortcode('[google_places]'); ?>
 	</section>
 	<?php
