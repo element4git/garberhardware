@@ -1,1 +1,0 @@
-¥¡ùV<?php exit; ?>a:1:{s:7:"content";a:3:{s:6:"WPLANG";b:1;s:15:"ftp_credentials";b:1;s:25:"auto_core_update_notified";b:1;}}

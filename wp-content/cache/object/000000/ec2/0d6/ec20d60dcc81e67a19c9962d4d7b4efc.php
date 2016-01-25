@@ -1,8 +1,0 @@
-���V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"66";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-19 02:55:21";s:13:"post_date_gmt";s:19:"2016-01-19 02:55:21";s:12:"post_content";s:603:"<strong>"FAMILY OWNED 120+ YEARS</strong>
-Garber’s Hardware is one of the longest running mom and pop businesses in New York City. “When it opened it was a pushcart-style business,” says Nathaniel Garber-Schoen, whose grandfather’s grandfather opened the store in 1884, on 8th Avenue between Horatio and Jane Streets. “You took people’s orders and the store custom ordered the item.”
-
-<img class="alignnone size-medium wp-image-67" src="http://garber.dev/wp-content/uploads/2016/01/Garbers-1-cropped-1-300x144.jpg" alt="Garbers-1-cropped" width="300" height="144" />
-
-<hr />
-
-&nbsp;";s:10:"post_title";s:40:"HUDSON/HOUSTON is talking about Garber's";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:38:"hudsonhouston-is-talking-about-garbers";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-01-19 02:55:21";s:17:"post_modified_gmt";s:19:"2016-01-19 02:55:21";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:23:"http://garber.dev/?p=66";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
