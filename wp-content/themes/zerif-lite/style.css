@@ -1468,7 +1468,7 @@ object {
 	background-image: url('images/cogs/cog_orang3_2.png');
 }
 #site-navigation li:nth-child(4n+2) a:after{
-	background-image:  url('images/cogs/split-washer_2.png ');
+	background-image:  url('images/cogs/split-washer_2.png');
 }
 #site-navigation li:nth-child(4n+3) a:after{
 	background-image:  url('images/cogs/hex_orange_2.png');
@@ -6333,4 +6333,8 @@ body.custom-background {
 .map{
 	height:20em;
 	width:100%;
+}
+
+.week{
+	font-size:45px;
 }

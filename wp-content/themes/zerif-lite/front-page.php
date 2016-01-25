@@ -191,6 +191,15 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 
 	endif;
 
+	
+	/* OUR hours */
+	?>
+	<section id="hours" class="focus">
+		<?php echo do_shortcode( '[google_places]'); ?>
+	</section>
+	<?php
+
+	
 	/* CONTACT US */
 	$zerif_contactus_show = get_theme_mod('zerif_contactus_show');
 
@@ -221,6 +230,8 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 					?>
 				</div>
 				<!-- / END SECTION HEADER -->
+
+
 
 				<?php
 				if ( defined('PIRATE_FORMS_VERSION') && shortcode_exists( 'pirate_forms' ) ):
@@ -338,13 +349,6 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 		</section>
 		<?php
 	endif;
-
-	/* OUR hours */
-	?>
-	<section id="hours">
-		hours go here
-	</section>
-	<?php
 
 	/* OUR FOCUS SECTION */
 

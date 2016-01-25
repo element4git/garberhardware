@@ -1,4 +1,4 @@
-≥¡ùV<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:1:"1";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-17 16:47:19";s:13:"post_date_gmt";s:19:"2016-01-17 16:47:19";s:12:"post_content";s:650:"Check out Garber's mention on This Old House <a href="http://www.thisoldhouse.com/toh/photos/0,,20817283_30164726,00.html" target="_blank">here</a>
+∫Ä•V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:1:"1";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-17 16:47:19";s:13:"post_date_gmt";s:19:"2016-01-17 16:47:19";s:12:"post_content";s:650:"Check out Garber's mention on This Old House <a href="http://www.thisoldhouse.com/toh/photos/0,,20817283_30164726,00.html" target="_blank">here</a>
 
 <hr />
 
