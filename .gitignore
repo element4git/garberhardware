@@ -1,0 +1,7 @@
+*/
+*
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!/wp-content
+!/wp-content/*.*
+!/wp-content/**/
