@@ -7,4 +7,5 @@
 !/wp-content/**/
 !/wp-content/plugins/**
 wp-content/cache/*
+!/wp-content/themes/zerif-lite/*
 .htaccess
