@@ -342,7 +342,7 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 	/* OUR hours */
 	?>
 	<section id="hours">
-		hours go here
+		<?php echo do_shortcode('[google_places]'); ?>
 	</section>
 	<?php
 
